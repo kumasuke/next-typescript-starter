@@ -1,0 +1,10 @@
+{
+  "tailwindCSS.experimental.classRegex": [
+    [
+      "classnames\\(([^)]*)\\)",
+      "'([^']*)'"
+    ]
+  ],
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2
+}
