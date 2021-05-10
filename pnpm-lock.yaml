@@ -354,8 +354,8 @@ packages:
       uri-js: 4.4.1
     dev: true
 
-  /ajv/8.2.0:
-    resolution: {integrity: sha512-WSNGFuyWd//XO8n/m/EaOlNLtO0yL8EXT/74LqT4khdhpZjP7lkj/kT5uwRmGitKEVp/Oj7ZUHeGfPtgHhQ5CA==}
+  /ajv/8.3.0:
+    resolution: {integrity: sha512-RYE7B5An83d7eWnDR8kbdaIFqmKCNsP16ay1hDbJEU+sa0e3H9SebskCt0Uufem6cfAVu7Col6ubcn/W+Sm8/Q==}
     dependencies:
       fast-deep-equal: 3.1.3
       json-schema-traverse: 1.0.0
@@ -1056,7 +1056,7 @@ packages:
     dependencies:
       is-callable: 1.2.3
       is-date-object: 1.0.4
-      is-symbol: 1.0.3
+      is-symbol: 1.0.4
     dev: true
 
   /es6-object-assign/1.1.0:
@@ -1715,8 +1715,8 @@ packages:
     engines: {node: '>= 0.4'}
     dev: true
 
-  /is-symbol/1.0.3:
-    resolution: {integrity: sha512-OwijhaRSgqvhm/0ZdAcXNZt9lYdKFpcRDT5ULUuYXPoT794UNOdU+gpT6Rzo7b4V2HUl/op6GqY894AZwv9faQ==}
+  /is-symbol/1.0.4:
+    resolution: {integrity: sha512-C/CPBqKWnvdcxqIARxyOh4v1UUEOCHpgDa0WYgpKDFMszcrPcffg5uhwSgPCLD2WWxmq6isisz87tzT01tuGhg==}
     engines: {node: '>= 0.4'}
     dependencies:
       has-symbols: 1.0.2
@@ -2918,7 +2918,7 @@ packages:
     resolution: {integrity: sha512-SAM+5p6V99gYiiy2gT5ArdzgM1dLDed0nkrWmG6Fry/bUS/m9x83BwpJUOf1Qj/x2qJd+thL6IkIx7qPGRxqBw==}
     engines: {node: '>=10.0.0'}
     dependencies:
-      ajv: 8.2.0
+      ajv: 8.3.0
       lodash.clonedeep: 4.5.0
       lodash.truncate: 4.4.2
       slice-ansi: 4.0.0
@@ -3168,7 +3168,7 @@ packages:
       is-boolean-object: 1.1.1
       is-number-object: 1.0.5
       is-string: 1.0.6
-      is-symbol: 1.0.3
+      is-symbol: 1.0.4
     dev: true
 
   /which-typed-array/1.1.4:
