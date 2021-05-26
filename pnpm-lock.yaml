@@ -10,7 +10,7 @@ specifiers:
   eslint-plugin-prettier: 3.4.0
   eslint-plugin-react: 7.23.2
   next: 10.2.3
-  next-sitemap: 1.6.57
+  next-sitemap: 1.6.91
   postcss: 8.3.0
   prettier: 2.3.0
   react: 17.0.2
@@ -28,7 +28,7 @@ devDependencies:
   eslint-plugin-prettier: 3.4.0_beb8ddd1fba5378f74976112c7860a07
   eslint-plugin-react: 7.23.2_eslint@7.27.0
   next: 10.2.3_507781d099a67956587e23f5ac79078b
-  next-sitemap: 1.6.57_next@10.2.3
+  next-sitemap: 1.6.91_next@10.2.3
   postcss: 8.3.0
   prettier: 2.3.0
   react: 17.0.2
@@ -1958,8 +1958,8 @@ packages:
     resolution: {integrity: sha1-Sr6/7tdUHywnrPspvbvRXI1bpPc=}
     dev: true
 
-  /next-sitemap/1.6.57_next@10.2.3:
-    resolution: {integrity: sha512-pv6NgKGI3k8bCl98FOJ6ISAHBuUwYAy3kV8xqse3rcLQW0/AnK+02yPT+VC5d4abrNP6HqhSf1fKuIYoTzrx7Q==}
+  /next-sitemap/1.6.91_next@10.2.3:
+    resolution: {integrity: sha512-C9Iuoqw5Acqt9Y/j4WCjgKo7rx78Scdk74EWsOqj7hbgjFlztX93koOkL60semVsQBSCbMQo/SAFwo+3fUTOxw==}
     hasBin: true
     peerDependencies:
       next: '*'
