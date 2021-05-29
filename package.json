@@ -20,7 +20,7 @@
     "eslint": "7.27.0",
     "eslint-config-prettier": "8.3.0",
     "eslint-plugin-prettier": "3.4.0",
-    "eslint-plugin-react": "7.23.2",
+    "eslint-plugin-react": "7.24.0",
     "next": "10.2.3",
     "next-sitemap": "1.6.95",
     "postcss": "8.3.0",
