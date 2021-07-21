@@ -23,7 +23,7 @@
     "eslint-plugin-react": "7.23.2",
     "next": "10.2.3",
     "next-sitemap": "1.6.95",
-    "postcss": "8.3.0",
+    "postcss": "8.3.6",
     "prettier": "2.3.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
