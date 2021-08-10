@@ -2,12 +2,13 @@
 
 ## features
 
-- Next.js
+- [Next.js v11](https://nextjs.org/blog/next-11)
 - Typescript
 - TailwindCSS
 - next-sitemap
-- pnpm
+- [pnpm](https://pnpm.io/ja/)
 - Alias @ to <project_root>/src
+- [ESLint](https://nextjs.org/docs/basic-features/eslint)
 
 ## Build Setup
 

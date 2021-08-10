@@ -5,9 +5,7 @@
 const config = {
   reactStrictMode: true,
   poweredByHeader: false,
-  future: {
-    webpack5: true,
-  },
+  webpack5: true,
 }
 
 module.exports = config
