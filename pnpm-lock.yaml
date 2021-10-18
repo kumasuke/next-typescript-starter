@@ -7,7 +7,7 @@ specifiers:
   eslint-config-next: 11.0.1
   eslint-config-prettier: 8.3.0
   next: 11.0.1
-  next-sitemap: 1.6.148
+  next-sitemap: 1.6.184
   postcss: 8.3.6
   prettier: 2.3.2
   react: 17.0.2
@@ -22,7 +22,7 @@ devDependencies:
   eslint-config-next: 11.0.1_364f6739f1a077bdf2998405af31cd57
   eslint-config-prettier: 8.3.0_eslint@7.32.0
   next: 11.0.1_f31b35bdaa3b7c2fce82404f09d2dac4
-  next-sitemap: 1.6.148_next@11.0.1
+  next-sitemap: 1.6.184_next@11.0.1
   postcss: 8.3.6
   prettier: 2.3.2
   react: 17.0.2
@@ -81,8 +81,8 @@ packages:
       to-fast-properties: 2.0.0
     dev: true
 
-  /@corex/deepmerge/2.6.20:
-    resolution: {integrity: sha512-oZZxwDtV0bf8VPcSIhZPvdBFUkVIC8zRblUjrrVAsbGRiqUuZJfoXw2M6NDiIXWcUCfOqbkFND6Yf3b9ej9AjA==}
+  /@corex/deepmerge/2.6.34:
+    resolution: {integrity: sha512-5l3bQRGOoCJ1nYTxEaOW/MRuwNDq32KYatWO5rwOlOzxY4beVCrxDBaDBX5wpDn0PYm0QAul/vAC9GDHShEbTw==}
     dev: true
 
   /@eslint/eslintrc/0.4.3:
@@ -1506,6 +1506,7 @@ packages:
     resolution: {integrity: sha512-xiqMQR4xAeHTuB9uWm+fFRcIOgKBMiOBP+eXiyT7jsgVCq1bkVygt00oASowB7EdtpOHaaPgKt812P9ab+DDKA==}
     engines: {node: ^8.16.0 || ^10.6.0 || >=11.0.0}
     os: [darwin]
+    requiresBuild: true
     dev: true
     optional: true
 
@@ -2172,13 +2173,13 @@ packages:
     resolution: {integrity: sha1-Sr6/7tdUHywnrPspvbvRXI1bpPc=}
     dev: true
 
-  /next-sitemap/1.6.148_next@11.0.1:
-    resolution: {integrity: sha512-PZhH2ftJYHjwcFYrHtHOrhmf/D/N7YJEaEAKKp6t9uIxRoMMNXoxkh9ImwgGXVBv0WEroRtx1eOT5QjJvpXdDA==}
+  /next-sitemap/1.6.184_next@11.0.1:
+    resolution: {integrity: sha512-72a3juoo3V5PDPiVNJd8DxPRm5E76sT+zWcAjiFIPl7D7kAka8OFp1yEHWXyss5SfjT3WfINeXmletmOX8PEkQ==}
     hasBin: true
     peerDependencies:
       next: '*'
     dependencies:
-      '@corex/deepmerge': 2.6.20
+      '@corex/deepmerge': 2.6.34
       matcher: 4.0.0
       minimist: 1.2.5
       next: 11.0.1_f31b35bdaa3b7c2fce82404f09d2dac4
