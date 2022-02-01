@@ -2,7 +2,7 @@
 
 ## features
 
-- [Next.js v11](https://nextjs.org/blog/next-11)
+- [Next.js v12](https://nextjs.org/blog/next-12)
 - Typescript
 - TailwindCSS
 - next-sitemap
