@@ -1,12 +1,12 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@types/node': ^17.0.13
+  '@types/node': 17.0.13
   '@types/react': 17.0.38
   autoprefixer: 10.4.2
   eslint: 8.8.0
   eslint-config-next: 12.0.10
-  eslint-config-prettier: 8.3.0
+  eslint-config-prettier: 8.5.0
   next: 12.0.10
   next-sitemap: 2.1.6
   postcss: 8.4.5
@@ -31,7 +31,7 @@ dependencies:
 devDependencies:
   eslint: 8.8.0
   eslint-config-next: 12.0.10_9534215cc73b6f260bf33f1b86e3ae0e
-  eslint-config-prettier: 8.3.0_eslint@8.8.0
+  eslint-config-prettier: 8.5.0_eslint@8.8.0
   prettier: 2.5.1
 
 packages:
@@ -791,8 +791,8 @@ packages:
       - supports-color
     dev: true
 
-  /eslint-config-prettier/8.3.0_eslint@8.8.0:
-    resolution: {integrity: sha512-BgZuLUSeKzvlL/VUjx/Yb787VQ26RU3gGjA3iiFvdsp/2bMfVIWUVP7tjxtjS0e+HP409cPlPvNkQloz8C91ew==}
+  /eslint-config-prettier/8.5.0_eslint@8.8.0:
+    resolution: {integrity: sha512-obmWKLUNCnhtQRKc+tmnYuQl0pFU1ibYJQ5BGhTVB08bHe9wC8qUeG7c08dj9XX+AuPj1YSGSQIHl1pnDHZR0Q==}
     hasBin: true
     peerDependencies:
       eslint: '>=7.0.0'
